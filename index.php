@@ -21,12 +21,12 @@
 			<h1>Monde</h1> 
 		</div>
 		<!--les deux select -->
-		<select class="continent" name="continent">
-			<option value=""></option>
+		<select class="continent">
+			<option value="">Continent</option>
 		</select>
 
-		<select class="pays" name="pays" placeholer="Continent">
-			<option value=""></option>
+		<select class="pays" name="pays" >
+			<option value="">Pays</option>
 		</select>
 
 		<div class="clearfix"></div>
@@ -38,7 +38,6 @@
 		<div class="div_right">
 			<h1> Pays Démographie</h1>
 		</div>
-
 	</main>	
 </body>
 </html>

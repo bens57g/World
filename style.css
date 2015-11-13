@@ -22,6 +22,10 @@ main
 	width: 42%;
 	height: 25px;
 	margin-left: 50px; 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 1px solid black ;
+
 }
 
 .pays
@@ -29,7 +33,10 @@ main
 	float: left;
 	width: 42%;
 	height: 25px;
-	margin-left: 50px; 
+	margin-left: 54px; 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 1px solid black ;
 }
 
 .div_left
@@ -47,6 +54,7 @@ main
 	width: 42%;
 	height: 350px;
 	border: 1px solid black ;
+	margin-left: 54px;
 }
 
 
