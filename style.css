@@ -19,7 +19,7 @@ main
 .continent
 {
 	float: left;
-	width: 42%;
+	width: 35%;
 	height: 25px;
 	margin-left: 50px; 
 	margin-top: 20px;
@@ -31,13 +31,27 @@ main
 .pays
 {
 	float: left;
-	width: 42%;
+	width: 35%;
 	height: 25px;
 	margin-left: 54px; 
 	margin-top: 20px;
 	margin-bottom: 20px;
 	border: 1px solid black ;
 }
+
+.button_left
+{
+	float: left;
+	width: 7%;
+	margin-top: 20px;
+}
+.button_right
+{
+	float: left;
+	width: 7%;
+	margin-top: 20px;
+}
+
 
 .div_left
 {
