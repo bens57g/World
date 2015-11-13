@@ -1,10 +1,15 @@
 <?php  
 
+
+	require 'functions.php';
+	
+	// nom des continents
+	$Continent_names = getContinent($pdo);
+
 	$strconnexion = 'mysql:host=localhost;dbname=world;charset=utf8';
 	$pdo = new PDO($strconnexion, 'root', 'webforce3');
 	$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-	require "functions.php";
 
 	$liste_pays=getPays($pdo);
 ?>
