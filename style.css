@@ -1,0 +1,56 @@
+main
+{
+	width: 960px;
+	height: 600px;
+	margin: auto;
+	border: 1px solid black ;
+}
+
+.monde
+{
+	width: 90%;
+	height: 150px;
+	border: 1px solid black ;
+	margin-left: 50px;
+    margin-top: 15px;
+
+}
+
+.continent
+{
+	float: left;
+	width: 42%;
+	height: 25px;
+	margin-left: 50px; 
+}
+
+.pays
+{
+	float: left;
+	width: 42%;
+	height: 25px;
+	margin-left: 50px; 
+}
+
+.div_left
+{
+	float: left;
+	width: 42%;
+	height: 350px;
+	border: 1px solid black ;
+	margin-left: 50px;
+}
+
+.div_right	
+{
+	float: left;
+	width: 42%;
+	height: 350px;
+	border: 1px solid black ;
+}
+
+
+.clearfix
+{
+	clear: both;
+}

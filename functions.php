@@ -1,0 +1,4 @@
+<?php 
+	// regroupement des fonction
+
+?>
